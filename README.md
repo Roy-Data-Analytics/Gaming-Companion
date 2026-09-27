@@ -1,3 +1,23 @@
+
+# 🎮 See It in Action 
+
+## 💡 The Idea
+
+This is what I want Gaming Companion to feel like:
+
+**You play the game. AI watches with you. You talk like two friends sitting together.**
+
+![Gaming Companion Concept](Gaming_companion_v0.3_.png)
+
+## Real Working Prototype — V0.3
+
+This is the actual Gaming Companion V0.3 running on my PC.
+
+![Gaming Companion V0.3 Demo](Gaming_Companion_V0.3.png)
+
+
+
+---
 # 🚨 CUT THE SHIT — READ THIS FIRST
 
 ## 🇺🇸 English
@@ -18,7 +38,6 @@ That's it.
 
 **I will upload a video showing you how to set it up and use it.**
 
----
 
 ## 🇨🇳 中文
 
