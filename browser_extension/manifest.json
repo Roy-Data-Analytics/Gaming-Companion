@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Gaming Companion Bridge",
+  "version": "0.5.0",
+  "description": "Paste screenshots and trigger the page Send action in the background.",
+  "minimum_chrome_version": "120",
+  "permissions": [
+    "debugger",
+    "tabs",
+    "storage",
+    "alarms"
+  ],
+  "host_permissions": [
+    "http://127.0.0.1/*"
+  ],
+  "background": {
+    "service_worker": "background.js",
+    "type": "module"
+  },
+  "action": {
+    "default_title": "Select ChatGPT Window in the desktop Gaming Companion app"
+  }
+}

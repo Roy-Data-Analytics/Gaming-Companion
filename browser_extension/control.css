@@ -1,0 +1,5 @@
+body { font: 16px/1.6 "Segoe UI", sans-serif; background: #f5f6f8; color: #202636; }
+main { max-width: 850px; margin: 32px auto; padding: 28px; background: white; border-radius: 12px; }
+button, select, input { font: inherit; padding: 8px; margin: 4px; }
+select { max-width: 650px; }
+pre { white-space: pre-wrap; background: #121b2c; color: #d6e6ff; padding: 16px; min-height: 180px; }
