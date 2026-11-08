@@ -1,18 +1,15 @@
-# Python cache
 __pycache__/
-*.pyc
-
-# Gaming Companion screenshots
-game_screen.png
-
-# Temporary files
-*.tmp
-*.log
-
-# Windows files
-Thumbs.db
-Desktop.ini
-
-# IDE / editor files
-.vscode/
-.idea/
+*.py[cod]
+/.venv/
+browser_bridge_pairing.json
+browser_target.json
+local_pairing.json
+/tests/bridge_test_*/
+/debug/
+/screenshots/
+/archive/
+/assets/*.png
+/docs/Gaming Companion Start.txt
+/docs/Next_Development_Session.md
+/docs/Project Roadmap.docx
+/docs/V0.4
